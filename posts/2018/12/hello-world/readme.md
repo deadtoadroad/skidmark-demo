@@ -69,6 +69,12 @@ Also, sparkles.
   - anon, 2018-12-19
 </p>
 
+> There you go.
+
+<p align="right">
+  - deadtoadroad, 2018-12-19
+</p>
+
 **[Home](/readme.md#readme)**<br/>
 **Next: [Demo Post](/posts/2018/12/demo-post/readme.md#readme)**
 

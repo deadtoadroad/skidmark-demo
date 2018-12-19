@@ -3,10 +3,12 @@
   "items":[{
     "jsonClass":"CommentIndexItem",
     "id":"62bc0151-b668-4795-b110-2941d0bf711b",
-    "version":0,
+    "version":1,
     "postId":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
     "author":"deadtoadroad",
+    "vettedOn":"2018-12-19T15:36:20.463+11:00[Australia/Sydney]",
     "createdOn":"2018-12-19T15:36:19.941+11:00[Australia/Sydney]",
+    "updatedOn":"2018-12-19T15:36:20.463+11:00[Australia/Sydney]",
     "isDeleted":false
   },{
     "jsonClass":"CommentIndexItem",
