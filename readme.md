@@ -1,4 +1,3 @@
-**Previous: [Hello World](/posts/2018/12/hello-world/readme.md#readme)**<br/>
 
 # Demo Post
 
@@ -163,6 +162,5 @@ Check out [Skidmark](https://github.com/deadtoadroad/skidmark#readme) to read mo
 
 No comments.
 
-**Previous: [Hello World](/posts/2018/12/hello-world/readme.md#readme)**<br/>
 
 *Published with [Skidmark](https://github.com/deadtoadroad/skidmark#readme).*
