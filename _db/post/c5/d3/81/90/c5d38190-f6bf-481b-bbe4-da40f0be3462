@@ -1,0 +1,12 @@
+{
+  "jsonClass":"Post",
+  "id":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
+  "version":0,
+  "title":"Hello World",
+  "author":"deadtoadroad",
+  "tags":["hello-world","skidmark","scala"],
+  "text":"The obligatory \"Hello World\" post.\n\nBesides regular Markdown stuff like...\n\n## Headings\n\nAnd lists:\n\n* Oranges\n* Apples\n* Bananas\n\n[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) also provides a few more features...\n\nThings like task lists:\n\n* [ ] Oranges\n* [x] Apples\n* [ ] Bananas\n\nTables:\n\nFruit | Check\n----- | -----\nOranges |\nApples | :heavy_check_mark:\nBananas |\n\nAnd code blocks with syntax highlighting:\n\n```JavaScript\nfunction check(fruit) {\n  list[fruit] = true;\n}\n```\n\nAlso, sparkles.\n\n:sparkles: :sparkles: :sparkles: :sparkles: :sparkles:\n",
+  "comments":[],
+  "createdOn":"2018-12-19T15:35:36.111+11:00[Australia/Sydney]",
+  "isDeleted":false
+}

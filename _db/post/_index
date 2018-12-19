@@ -12,5 +12,15 @@
     "createdOn":"2018-12-19T15:35:13.543+11:00[Australia/Sydney]",
     "updatedOn":"2018-12-19T15:35:15.457+11:00[Australia/Sydney]",
     "isDeleted":false
+  },{
+    "jsonClass":"PostIndexItem",
+    "id":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
+    "version":0,
+    "title":"Hello World",
+    "author":"deadtoadroad",
+    "tags":["hello-world","skidmark","scala"],
+    "comments":0,
+    "createdOn":"2018-12-19T15:35:36.111+11:00[Australia/Sydney]",
+    "isDeleted":false
   }]
 }
