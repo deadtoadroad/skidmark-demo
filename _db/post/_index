@@ -3,12 +3,14 @@
   "items":[{
     "jsonClass":"PostIndexItem",
     "id":"1235048b-1a27-4722-848f-1a74feec8132",
-    "version":0,
+    "version":1,
     "title":"Demo Post",
     "author":"deadtoadroad",
     "tags":["demo","skidmark","scala"],
+    "publishedOn":"2018-12-17T00:00+11:00[Australia/Sydney]",
     "comments":0,
     "createdOn":"2018-12-19T15:35:13.543+11:00[Australia/Sydney]",
+    "updatedOn":"2018-12-19T15:35:15.457+11:00[Australia/Sydney]",
     "isDeleted":false
   }]
 }
