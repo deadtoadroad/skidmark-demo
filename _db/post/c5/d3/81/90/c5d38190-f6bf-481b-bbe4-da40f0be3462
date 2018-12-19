@@ -18,6 +18,15 @@
     "createdOn":"2018-12-19T15:36:07.311+11:00[Australia/Sydney]",
     "updatedOn":"2018-12-19T15:36:07.915+11:00[Australia/Sydney]",
     "isDeleted":false
+  },{
+    "jsonClass":"Comment",
+    "id":"62bc0151-b668-4795-b110-2941d0bf711b",
+    "version":0,
+    "postId":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
+    "author":"deadtoadroad",
+    "text":"There you go.",
+    "createdOn":"2018-12-19T15:36:19.941+11:00[Australia/Sydney]",
+    "isDeleted":false
   }],
   "createdOn":"2018-12-19T15:35:36.111+11:00[Australia/Sydney]",
   "updatedOn":"2018-12-19T15:36:19.345+11:00[Australia/Sydney]",
