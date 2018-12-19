@@ -1,0 +1,14 @@
+{
+  "jsonClass":"PostIndex",
+  "items":[{
+    "jsonClass":"PostIndexItem",
+    "id":"1235048b-1a27-4722-848f-1a74feec8132",
+    "version":0,
+    "title":"Demo Post",
+    "author":"deadtoadroad",
+    "tags":["demo","skidmark","scala"],
+    "comments":0,
+    "createdOn":"2018-12-19T15:35:13.543+11:00[Australia/Sydney]",
+    "isDeleted":false
+  }]
+}
