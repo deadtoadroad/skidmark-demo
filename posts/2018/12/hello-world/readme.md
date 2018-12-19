@@ -59,7 +59,11 @@ Also, sparkles.
 
 ## Comments
 
-No comments.
+> Nice, but it needs more sparkles.
+
+<p align="right">
+  - anon, 2018-12-19
+</p>
 
 **[Home](/readme.md#readme)**<br/>
 **Next: [Demo Post](/posts/2018/12/demo-post/readme.md#readme)**

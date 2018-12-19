@@ -3,10 +3,12 @@
   "items":[{
     "jsonClass":"CommentIndexItem",
     "id":"b9d9aa34-7588-4f71-a72a-deb4a664da32",
-    "version":0,
+    "version":1,
     "postId":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
     "author":"anon",
+    "vettedOn":"2018-12-19T15:36:07.914+11:00[Australia/Sydney]",
     "createdOn":"2018-12-19T15:36:07.311+11:00[Australia/Sydney]",
+    "updatedOn":"2018-12-19T15:36:07.915+11:00[Australia/Sydney]",
     "isDeleted":false
   }]
 }
