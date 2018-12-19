@@ -32,11 +32,13 @@
   },{
     "jsonClass":"Comment",
     "id":"086125de-0f2d-49c4-b2d8-e362cf1ff508",
-    "version":0,
+    "version":1,
     "postId":"c5d38190-f6bf-481b-bbe4-da40f0be3462",
     "author":"anon",
     "text":"Great, thanks.",
+    "vettedOn":"2018-12-19T15:36:21.629+11:00[Australia/Sydney]",
     "createdOn":"2018-12-19T15:36:21.122+11:00[Australia/Sydney]",
+    "updatedOn":"2018-12-19T15:36:21.629+11:00[Australia/Sydney]",
     "isDeleted":false
   }],
   "createdOn":"2018-12-19T15:35:36.111+11:00[Australia/Sydney]",
